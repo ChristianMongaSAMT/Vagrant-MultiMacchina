@@ -1,3 +1,8 @@
+<html>
+<head>
+  <title>Vagrant Multi-Macchina</title>
+</head>
+<body>
 <?php
   $dbServer = "10.10.20.11";
   $dbUser = "dbuser";
@@ -35,6 +40,7 @@
       echo "</tr>";
     }
     echo "</table>";
+    echo "<hr>";
   } else {
     echo "Error preparing statement: " . $connection->error;
   }
@@ -42,3 +48,6 @@
 // Close the database connection
 $stmt->close();
 $connection->close();
+?>
+</body>
+</html>
