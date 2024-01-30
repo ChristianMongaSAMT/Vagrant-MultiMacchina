@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"E:/I4BB/Professionale/M340/esercizi/Vagrant Multi-Macchina/site","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"E:/I4BB/Professionale/M340/esercizi/Vagrant Multi-Macchina","disabled":false,"__vagrantfile":true}}}
