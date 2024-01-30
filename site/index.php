@@ -40,7 +40,7 @@
       echo "</tr>";
     }
     echo "</table>";
-    echo "<hr>";
+    echo "<br><hr>";
   } else {
     echo "Error preparing statement: " . $connection->error;
   }
